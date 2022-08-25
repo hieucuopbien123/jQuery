@@ -1,0 +1,7 @@
+-> jQuery là thư viện của JS giúp code dễ dàng hơn, đảm bảo chạy trên hầu hết các trình duyệt
+Các module của jQuery: Ajax, Attributes xử lý thuộc tính của DOM, truy vấn DOM, Selector truy vấn HTML, Form xử lý sự kiện form, Event xử lý các thứ như click hover, Effect xử lý hiệu ứng HTML CSS
+
+Do jQuery làm code gọn nên nhiều plugin ra đời. Có những trang web chỉ cần 1 file html ngắn và code rất gọn nhưng làm được những thứ rất phức tạp
+
+Bh dù đã cũ nhưng nhiều code jQuery vẫn còn trong các trình duyệt
+
