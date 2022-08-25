@@ -65,3 +65,6 @@ Check 1 thẻ có chứa các thẻ nào, lấy các thẻ đang click: has, e.t
 Thao tác với các thẻ DOM riêng: submit form, lấy val của input,...
 Biến trong jQuery
 
+-> Các lệnh thg dùng nhất:
+attr removeAttr val html on width height css hide/show slideDown offset children $ append animate is has fadeIn/fadeOut
+
